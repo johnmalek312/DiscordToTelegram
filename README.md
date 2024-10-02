@@ -78,7 +78,7 @@ CREATE TABLE forwarder (
 1. Start the bot by running the following command:
 
    ```bash
-   python DiscordToTelegram.py
+   python main.py
    ```
 
 2. The bot will listen to messages in Discord and forward them to the specified Telegram chats based on the configuration stored in the MySQL database.
