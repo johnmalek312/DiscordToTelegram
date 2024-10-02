@@ -21,8 +21,8 @@ To set up this message forwarder, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/discord-telegram-forwarder.git
-   cd discord-telegram-forwarder
+   git clone https://github.com/johnmalek312/DiscordToTelegram.git
+   cd DiscordToTelegram
 
 2. Install the required Python packages:
    ```bash
